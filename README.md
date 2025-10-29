@@ -62,7 +62,6 @@ Key visualizations generated and included in `visuals/`:
 
 ---
 
-## How to Run
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/labor-market-forecast.git
+## Tableau Dashboard:
+- Link: https://public.tableau.com/views/U_S_LaborMarketTrendsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- Notes: Only had access to Tableau Public on the Web browswer
